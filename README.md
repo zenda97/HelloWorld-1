@@ -1,4 +1,5 @@
 HelloWorld
 ==========
 
-Hello GitHub world
+Hello GitHub World, this is me Ondřej..
+
